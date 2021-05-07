@@ -1,0 +1,24 @@
+table, th, td {border: 1px solid black; border-collapse: collapse;}
+		body {background-image: url( latar1.png);}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #FFC0CB;}
+	li {float: left;}
+	li a {
+		display: block;
+		color: 	black;
+		text-align: center;
+		padding: 14px 16px
+		text-decoration: none;}
+		li a: hover {background-color:#D8BFD8;}
+		h1{color: 	#800080;}
+		table, th, td {border: 3px double black;}
+		table, th, td {background-color: #D8BFD8;}
+		p{color: black}
+		p{border: 5px double #BC8F8F;
+			padding: 25px;}
+		p{text-align: justify;}
+		p{background-color: #D8BFD8;}
